@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "UnixConsole": {
+      "commandName": "Project"
+    }
+  }
+}

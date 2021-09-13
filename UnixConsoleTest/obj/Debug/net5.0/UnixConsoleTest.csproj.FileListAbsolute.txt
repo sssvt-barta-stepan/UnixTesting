@@ -1,0 +1,74 @@
+Y:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.csproj.AssemblyReference.cache
+Y:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+Y:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.AssemblyInfoInputs.cache
+Y:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.AssemblyInfo.cs
+Y:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.csproj.CoreCompileInputs.cache
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.deps.json
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.runtimeconfig.json
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.runtimeconfig.dev.json
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.exe
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.exe
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.deps.json
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.runtimeconfig.json
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.runtimeconfig.dev.json
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.dll
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\ref\UnixConsoleTest.dll
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.pdb
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.dll
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.pdb
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.csproj.AssemblyReference.cache
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.AssemblyInfoInputs.cache
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.AssemblyInfo.cs
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.csproj.CoreCompileInputs.cache
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.csproj.CopyComplete
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.dll
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\ref\UnixConsoleTest.dll
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.pdb
+X:\4. rocnik\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.genruntimeconfig.cache
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.deps.json
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.runtimeconfig.json
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.runtimeconfig.dev.json
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.exe
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.exe
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.deps.json
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.runtimeconfig.json
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.runtimeconfig.dev.json
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.dll
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\ref\UnixConsoleTest.dll
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.pdb
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.dll
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.pdb
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.csproj.AssemblyReference.cache
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.AssemblyInfoInputs.cache
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.AssemblyInfo.cs
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.csproj.CopyComplete
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.dll
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\ref\UnixConsoleTest.dll
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.pdb
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.genruntimeconfig.cache
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.deps.json
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.runtimeconfig.json
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.runtimeconfig.dev.json
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.exe
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.exe
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.deps.json
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.runtimeconfig.json
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.runtimeconfig.dev.json
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.dll
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\bin\Debug\net5.0\ref\UnixConsoleTest.dll
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsoleTest.pdb
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.dll
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\bin\Debug\net5.0\UnixConsole.pdb
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.csproj.AssemblyReference.cache
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.AssemblyInfoInputs.cache
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.AssemblyInfo.cs
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.csproj.CoreCompileInputs.cache
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.csproj.CopyComplete
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.dll
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\obj\Debug\net5.0\ref\UnixConsoleTest.dll
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.pdb
+C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsoleTest\obj\Debug\net5.0\UnixConsoleTest.genruntimeconfig.cache
