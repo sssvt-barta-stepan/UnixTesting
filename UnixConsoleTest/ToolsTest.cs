@@ -14,7 +14,7 @@ namespace UnixConsoleTest
 
         public void CatTest()
         {
-            string filename = @"C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsole\bin\Debug\net5.0\myfile.txt";
+            string filename = @"C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsole\bin\Debug\net5.0\myfile.txt";
             string expect = "viktor traktor. viktor traktor.\r\nviktor traktor. viktor traktor.";
             string result = tools.Cat(filename);
             Console.Write("testing method cat: ");
@@ -23,7 +23,7 @@ namespace UnixConsoleTest
 
         public void WcLtest()
         {
-            string filename = @"C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsole\bin\Debug\net5.0\myfile.txt";
+            string filename = @"C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsole\bin\Debug\net5.0\myfile.txt";
             int expect = 2;
             int result = tools.WcL(filename);
             Console.Write("testing method wc -l: ");
@@ -32,7 +32,7 @@ namespace UnixConsoleTest
 
         public void WcWtest()
         {
-            string filename = @"C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsole\bin\Debug\net5.0\myfile.txt";
+            string filename = @"C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsole\bin\Debug\net5.0\myfile.txt";
             int expect = 8;
             int result = tools.WcW(filename);
             Console.Write("testing method wc -w: ");
@@ -41,7 +41,7 @@ namespace UnixConsoleTest
 
         public void GrepTest()
         {
-            string filename = @"C:\Users\dogik\Desktop\prg\UnitTesting\UnixConsole\bin\Debug\net5.0\myfile.txt";
+            string filename = @"C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsole\bin\Debug\net5.0\myfile.txt";
             string searchText = "viktor";
             var expect = new List<string>();
             expect.Add("viktor traktor. viktor traktor.");

@@ -52,7 +52,6 @@ C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsole\bin\Debug\net5.0\
 C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsole\bin\Debug\net5.0\UnixConsole.dll
 C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsole\bin\Debug\net5.0\ref\UnixConsole.dll
 C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsole\bin\Debug\net5.0\UnixConsole.pdb
-C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsole\obj\Debug\net5.0\UnixConsole.csproj.AssemblyReference.cache
 C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsole\obj\Debug\net5.0\UnixConsole.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsole\obj\Debug\net5.0\UnixConsole.AssemblyInfoInputs.cache
 C:\Users\dogik\Desktop\prg\UnitTesting\UnixTesting\UnixConsole\obj\Debug\net5.0\UnixConsole.AssemblyInfo.cs
