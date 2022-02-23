@@ -1,0 +1,5 @@
+Závažnost	Kód	Popis	Projekt	Soubor	Øádek	Stav potlaèení
+Chyba	MSB3027	Soubor Y:\4. rocnik\prg\UnitTesting\UnixConsole\obj\Debug\net5.0\apphost.exe nelze zkopírovat do umístìní bin\Debug\net5.0\UnixConsole.exe. Byl pøekroèen poèet opakování 10. Nezdaøilo se. Soubor uzamkl(a): UnixConsole (18024).	UnixConsole	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets	4965	
+
+Závažnost	Kód	Popis	Projekt	Soubor	Øádek	Stav potlaèení
+Chyba	MSB3021	Soubor Y:\4. rocnik\prg\UnitTesting\UnixConsole\obj\Debug\net5.0\apphost.exe nelze zkopírovat do umístìní bin\Debug\net5.0\UnixConsole.exe. Proces nemùže pøistupovat k souboru bin\Debug\net5.0\UnixConsole.exe, protože soubor je využíván jiným procesem.	UnixConsole	C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Current\Bin\Microsoft.Common.CurrentVersion.targets	4965	
